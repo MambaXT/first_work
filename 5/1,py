@@ -1,0 +1,5 @@
+count = 0  # Starting point
+
+while count < 5:  # Condition: Run as long as count is less than 5
+    print("Count is:", count)
+    count += 1    # IMPORTANT: Increment count so the loop doesn't run forever
